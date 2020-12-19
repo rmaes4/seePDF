@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['/Users/robmaes/PycharmProjects/seePDF'],
+             pathex=['C:\\Users\\Rob\\PycharmProjects\\seePDF'],
              binaries=[],
              datas=[],
              hiddenimports=[],
